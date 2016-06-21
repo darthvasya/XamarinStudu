@@ -60,8 +60,20 @@ namespace XamarinStudu
 		public partial class Id
 		{
 			
+			// aapt resource value: 0x7f050001
+			public const int btnSignIn = 2131034113;
+			
+			// aapt resource value: 0x7f050003
+			public const int btnSignUp = 2131034115;
+			
+			// aapt resource value: 0x7f050004
+			public const int progrBar = 2131034116;
+			
 			// aapt resource value: 0x7f050000
-			public const int MyButton = 2131034112;
+			public const int txtCreateAccount = 2131034112;
+			
+			// aapt resource value: 0x7f050002
+			public const int txtOr = 2131034114;
 			
 			static Id()
 			{
